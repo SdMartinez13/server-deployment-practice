@@ -11,8 +11,11 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "start": "node index.js",
+    "lint": "eslint **/*.js",
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose --coverage"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SdMartinez13/server-deployment-practice.git"
