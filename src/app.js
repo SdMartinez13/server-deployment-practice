@@ -13,7 +13,7 @@ app.get('/', (req, res, next) => {
 });
 
 app.get('/bad', (req, res, next) => {
-  next('this is a bad route');
+  next('This is a bad route');
 });
 
 app.use('*', notFound);
