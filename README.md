@@ -1,6 +1,12 @@
 # server-deployment-practice
 
+
+## Author: Stephen Martinez
+
+## [Heroku Deployment](https://sm-server-deploy-dev.herokuapp.com/)
+
 ## [Heroku Deployed site](https://sm-server-deploy-dev.herokuapp.com/)
+
 
 ## [GitHub](https://github.com/SdMartinez13/server-deployment-practice)
 
@@ -11,3 +17,4 @@
 * burning the midnight oil
 
 * revisited lab to get server up and running
+
